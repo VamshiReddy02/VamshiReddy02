@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VamshiReddy02&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VamshiReddy02&theme=tokyonight" />
 </p>
+      ![VamshiReddy02's github activity graph](https://activity-graph.herokuapp.com/graph?username=VamshiReddy02&theme=nord)
