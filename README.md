@@ -1,6 +1,6 @@
 # Hi 👋,I'm Vamshi Reddy
 - 👀 I’m interested in CNCF.
-- 🌱 I’m currently learning about DevOps.
+- 🌱 I’m currently learning about Webdev and DevOps.
 - 📫 You can reach me out via [*My Bio*](https://linktr.ee/vamshireddy02)
 
 <!---
