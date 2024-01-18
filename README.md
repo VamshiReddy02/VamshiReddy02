@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
    &ensp;
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VamshiReddy02&theme=tokyonight" />
 </p>
+<p>
+   <img src="https://api.githubtrends.io/user/svg/VamshiReddy02/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/VamshiReddy02/langs?time_range=three_months&loc_metric=changed&compact=True&theme=classic" height="200" />
+</p>
