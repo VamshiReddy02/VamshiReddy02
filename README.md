@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VamshiReddy02&show_icons=true&theme=tokyonight" />
    &ensp;
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VamshiReddy02&theme=tokyonight" />
-      <img src="https://api.githubtrends.io/user/svg/Archisman-Mridha/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
+      <img src="https://api.githubtrends.io/user/svg/VamshiReddy02/repos?time_range=three_months&group=other&loc_metric=changed&theme=classic" />
 
 </p>
 
