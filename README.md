@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vamshi Reddy
 - 👀 I’m interested in WASM.
 - 🌱 I’m currently learning about Webdev and DevOps.
-- 📫 You can reach me out via [*My Bio*](https://linktr.ee/vamshireddy02)
+- 📫 You can reach me out via [*My Bio*](https://bento.me/vamshireddy02)
 
 <!---
 VamshiReddy02/VamshiReddy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
