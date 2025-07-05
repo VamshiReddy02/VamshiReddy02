@@ -1,8 +1,5 @@
 # Hi 👋, I'm Vamshi Reddy
 - 📫 You can reach me out via [*My Bio*](https://bento.me/vamshireddy02)
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VamshiReddy02&theme=tokyonight" />
 </p>
 
 <!---
