@@ -1,5 +1,4 @@
 # Hi 👋, I'm Vamshi Reddy
-- 📫 You can reach me out via [*My Bio*](https://bento.me/vamshireddy02)
 </p>
 
 <!---
