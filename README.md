@@ -1,5 +1,4 @@
 # Hi 👋, I'm Vamshi Reddy
-</p>
 
 <!---
 VamshiReddy02/VamshiReddy02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
